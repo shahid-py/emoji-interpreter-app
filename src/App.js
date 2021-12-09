@@ -19,7 +19,6 @@ const emojiDictionary = {
   "🤩": "Star-Struck",
   "😘": "Face Blowing a Kiss",
   "😗": "Kissing Face",
-  "☺️": "Smiling Face",
   "😚": "Kissing Face with Closed Eyes",
   "😙": "Kissing Face with Smiling Eyes",
   "🥲": "Smiling Face with Tear",
