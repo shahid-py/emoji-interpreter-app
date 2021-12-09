@@ -81,13 +81,6 @@ export default function App() {
 
   return (
     <div className="App">
-      <a
-        id="github-repo"
-        title="Source code for this app"
-        href="https://github.com/bishnoimukesh/emoji-interpreter-app"
-      >
-        <i className="fab fa-github"></i>
-      </a>
       <h1>Emoji Meaning</h1>
 
       <input onChange={emojiInputHandler} placeholder="Enter your emoji here" />
