@@ -13,4 +13,4 @@ A Emoji Interpreter app developed in codesandbox which tells the meaning of sele
 * Users can also input the emoji.
 * Only emoji inputs are allowed.
 ### Demo
-![](/images/Demo.png)
+![](/Demo.png)
